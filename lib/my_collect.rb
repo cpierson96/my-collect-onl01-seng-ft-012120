@@ -5,4 +5,6 @@ def collect_method(collection)
  while i< collection.length
  yield (collection.[i])
 end
+collection
+end
 
