@@ -4,5 +4,5 @@ def collect_method(collection)
  collection.do |name|
    name.split(" ").first
 end
-end
+
 
