@@ -2,8 +2,8 @@
 
 def collect_method(collection)
  i=0 
- new collection = []
+ new_collection = []
  while < collection.length 
-  new 
+  new_collection
 
 
