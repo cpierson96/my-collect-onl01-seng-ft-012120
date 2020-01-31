@@ -3,6 +3,6 @@
 def collect_method(collection)
  i=0 
  while i< collection.length
- yield (collection.i)
+ yield (collection.[i])
 end
 
