@@ -5,7 +5,5 @@ def collect_method(collection)
  new collection = []
  while < collection.length 
  
-   name.split(" ").first
-end
 
 
