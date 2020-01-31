@@ -3,7 +3,7 @@
 def collect_method(collection)
  i=0 
  new collection = []
- 
+ while <
    name.split(" ").first
 end
 
