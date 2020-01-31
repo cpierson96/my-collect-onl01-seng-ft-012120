@@ -2,6 +2,6 @@
 
 def collect_method(collection)
  i=0 
- while i>collection_length
+ while i>collection.length
 end
 
